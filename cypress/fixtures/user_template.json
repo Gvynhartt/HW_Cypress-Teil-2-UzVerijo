@@ -1,0 +1,34 @@
+{
+    "user1": {
+        "id": 1337,
+        "username": "abobus3450d",
+        "firstName": "Ivan",
+        "lastName": "Kvashnin",
+        "email": "leningrad@spb.ru",
+        "password": "KBEPTNyo6",
+        "phone": "88005553535",
+        "userStatus": 5928
+    },
+
+    "user2": {
+        "id": 1453,
+        "username": "pistoshka228",
+        "firstName": "Kirill",
+        "lastName": "Pistodiev",
+        "email": "petrograd@spb.su",
+        "password": "5_10_5_4_5_10_5_yTpa",
+        "phone": "88003335353",
+        "userStatus": 2077
+    },
+
+    "user3": {
+        "id": 1613,
+        "username": "uHkBu3uTop_cTaJluHu3Ma_1907",
+        "firstName": "Sladkodrishev",
+        "lastName": "Dazdrasovnar",
+        "email": "leningrad@vkpb.kpss",
+        "password": "press_F_2_ekspyrpyrirovat",
+        "phone": "1234ы",
+        "userStatus": 5928
+    }
+}
